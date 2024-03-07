@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "https://mock_deployed.github.io",
+  "homepage": "https://MuhamedOnMars.github.io/mkjp_mock",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
